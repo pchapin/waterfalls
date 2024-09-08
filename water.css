@@ -1,0 +1,22 @@
+
+body {
+  color: black;
+  background: #FFD;
+}
+
+blockquote
+  { font-style: italic; }
+
+/* The idea here is to highlight geographical locations in the directions
+   section for each waterfall. That way a person who has printed a page
+   might be able to follow it while driving. */
+   
+span.road-name      { font-weight: bold; }
+span.stream-name    { font-weight: bold; }
+span.town-name      { font-weight: bold; }
+span.trail-name     { font-weight: bold; }
+span.waterfall-name { font-weight: bold; }
+span.other-name     { font-weight: bold; }
+
+/* I'm not sure how to best handle the notes section. */
+span.notes-entry-header { font-weight: bold; }
