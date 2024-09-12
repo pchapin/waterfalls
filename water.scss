@@ -10,13 +10,28 @@ blockquote
 /* The idea here is to highlight geographical locations in the directions
    section for each waterfall. That way a person who has printed a page
    might be able to follow it while driving. */
-   
-span.road-name      { font-weight: bold; }
-span.stream-name    { font-weight: bold; }
-span.town-name      { font-weight: bold; }
-span.trail-name     { font-weight: bold; }
-span.waterfall-name { font-weight: bold; }
-span.other-name     { font-weight: bold; }
+
+%place-name {
+  font-weight: bold;
+}
+
+span.road-name
+  { @extend %place-name; }
+
+span.stream-name
+  { @extend %place-name; }
+
+span.town-name
+  { @extend %place-name; }
+
+span.trail-name
+  { @extend %place-name; }
+
+span.waterfall-name
+  { @extend %place-name; }
+
+span.other-name
+  { @extend %place-name; }
 
 /* I'm not sure how to best handle the notes section. */
 span.notes-entry-header { font-weight: bold; }
