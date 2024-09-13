@@ -1,7 +1,18 @@
 
 body {
   color: black;
-  background: #FFD;
+  background: #def9ff;
+}
+
+$indent: 1cm;
+
+p {
+  margin-left: $indent;
+  margin-right: $indent;
+}
+
+ul {
+  margin-left: $indent;
 }
 
 blockquote
