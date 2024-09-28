@@ -26,6 +26,10 @@
   </div>
 </div>
 
+<p><i>This website is in the process of being overhauled and modernized. Please excuse any
+    inconsistencies while I work on this upgrade. This website has not been enhanced in a long
+    time, so this will (hopefully!) be a welcome change when it is finally complete.</i></p>
+
 <p>My name is Peter Chapin, and this is my page for waterfall enthusiasts. I focus on the
   waterfalls of New England and neighboring regions (such as New York and bordering Canada). I
   pursue waterfalls as a hobby and as an excuse to get outside and into the woods. It's also an
@@ -35,34 +39,34 @@
 <div class="container pt-3 pb-3" style="border: 1px solid black;">
   <div class="row justify-content-center">
     <p align="center"><a href="new.html"><b>What's New?</b></a><br/> Last Revised <b>November 14,
-      2020</b></p>
+        2020</b></p>
 
     <h4>The Waterfalls</h4>
     <ul>
       <li><p><a href="list.html">List of Waterfalls</a> with directions, descriptions, and
-        photographs.</p></li>
+          photographs.</p></li>
 
       <li><p><i>Note: This is a work in progress!</i> Waterfall Gallery. I am thinking about
-        putting together some kind page or pages that will showcase the waterfalls visually. Watch
-        this space for future developments. In the meantime, feel free to browse an <a
-            href="photo_index.html">index of my photographs</a>.</p></li>
+          putting together some kind page or pages that will showcase the waterfalls visually.
+          Watch this space for future developments. In the meantime, feel free to browse an <a
+              href="photo_index.html">index of my photographs</a>.</p></li>
 
       <li><p><a href="trips.html">Waterfall Trips</a>. This document describes some nice waterfall
-        day trips that may be of interest to those of you who want to see the falls for yourself
-        but aren't sure where to begin. The trips are presented by region to make it easier to
-        match up a trip with your location.</p></li>
+          day trips that may be of interest to those of you who want to see the falls for yourself
+          but aren't sure where to begin. The trips are presented by region to make it easier to
+          match up a trip with your location.</p></li>
     </ul>
 
     <h4>References and Related Material</h4>
     <ul>
       <li><p><a href="references.html">Printed references</a> that might be of interest to New
-        England waterfall enthusiasts.</p></li>
+          England waterfall enthusiasts.</p></li>
 
       <li><p><a href="other.html">Other waterfall links</a>. If you know of something I missed,
-        let me know.</p></li>
+          let me know.</p></li>
 
       <li><p><a href="related.html">Related links</a>. Organizations or resources not specifically
-        about waterfalls but of interest to waterfall enthusiasts.</p></li>
+          about waterfalls but of interest to waterfall enthusiasts.</p></li>
 
       <li><p><a href="plans.html">Future plans</a> for this page.</p></li>
     </ul>
@@ -70,12 +74,13 @@
     <h4>Credits and Acknowledgments</h4>
     <ul>
       <li><p><a href="credits.html">Credits</a>. Acknowledgment to those who have helped me,
-        encouraged me, or tolerated me.</p></li>
+          encouraged me, or tolerated me.</p></li>
 
       <li><p>Some of the pictures that I'm using on this site were sent to me by other people and
-        are being used here with permission. I've put all those pictures in <a
-            href="guest_photos/">their own directory</a> to make it clear which ones are not mine.
-      </p></li>
+          are being used here with permission. I've put all those pictures in <a
+              href="guest_photos/">their own directory</a> to make it clear which ones are not
+          mine.
+        </p></li>
     </ul>
   </div>
 </div>
