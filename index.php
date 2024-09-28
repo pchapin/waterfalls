@@ -82,8 +82,7 @@
 
 <p>Thanks for visiting my page. I hope you enjoyed it!</p>
 
-<address>&copy; Copyright 2019 by Peter Chapin<br/> Last Revised: <b>July 31, 2019</b>
-</address>
+<?php include 'signature.html'; ?>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
         crossorigin="anonymous"></script>
