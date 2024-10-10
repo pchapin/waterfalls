@@ -38,7 +38,7 @@
 
 <div class="container pt-3 pb-3" style="border: 1px solid black;">
   <div class="row justify-content-center">
-    <p align="center"><a href="new.html"><b>What's New?</b></a><br/> Last Revised <b>November 14,
+    <p align="center"><a href="new.php"><b>What's New?</b></a><br/> Last Revised <b>November 14,
         2020</b></p>
 
     <h4>The Waterfalls</h4>
