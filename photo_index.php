@@ -3,7 +3,14 @@
 
 <head>
   <title>Waterfall Pictures</title>
-  <meta name="ROBOTS" content="NOARCHIVE"/>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="Author" content="Peter Chapin"/>
+  <meta name="robots" content="noarchive"/>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+        rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+        crossorigin="anonymous">
   <link rel="stylesheet" href="water.css" type="text/css"/>
 </head>
 <body>
@@ -219,7 +226,7 @@
     <p><a href="photos/smalls2.jpg">Smalls Falls</a> [144 KBytes]. This is the upper portion of
       the falls as taken from the rocks above. None of the action in this picture is visible in my
       <a href="photos/smalls1.jpg">first one</a>. However, the smaller drop in the background of
-      this picture is displayed in greater detail in my<a
+      this picture is displayed in greater detail in my <a
           href="photos/smalls3.jpg">third picture</a>. This gives you some idea of how extensive
       these falls are. (<a href="smalls.html">Description</a>)</p>
   </li>
@@ -274,10 +281,11 @@
   </li>
 </ul>
 
-<p>Return to the <a href="index.html">Waterfalls of the New England Region</a> page.</p>
+<p>Return to the <a href="index.php">Waterfalls of the New England Region</a> page.</p>
 
-<hr/>
-<address>&copy; Copyright 2002 by Peter Chapin<br/> Last Revised: <b>November 20, 2002</b><br/>
-</address>
+<?php include 'signature.html'; ?>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
 </body>
 </html>

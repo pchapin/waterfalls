@@ -38,20 +38,20 @@
 
 <div class="container pt-3 pb-3" style="border: 1px solid black;">
   <div class="row justify-content-center">
-    <p align="center"><a href="new.php"><b>What's New?</b></a><br/> Last Revised <b>November 14,
-        2020</b></p>
+    <p style="text-align: center;"><a href="new.php"><b>What's New?</b></a><br/> Last Revised <b>October
+        10, 2024</b></p>
 
     <h4>The Waterfalls</h4>
     <ul>
-      <li><p><a href="list.html">List of Waterfalls</a> with directions, descriptions, and
+      <li><p><a href="list.php">List of Waterfalls</a> with directions, descriptions, and
           photographs.</p></li>
 
       <li><p><i>Note: This is a work in progress!</i> Waterfall Gallery. I am thinking about
           putting together some kind page or pages that will showcase the waterfalls visually.
           Watch this space for future developments. In the meantime, feel free to browse an <a
-              href="photo_index.html">index of my photographs</a>.</p></li>
+              href="photo_index.php">index of my photographs</a>.</p></li>
 
-      <li><p><a href="trips.html">Waterfall Trips</a>. This document describes some nice waterfall
+      <li><p><a href="trips.php">Waterfall Trips</a>. This document describes some nice waterfall
           day trips that may be of interest to those of you who want to see the falls for yourself
           but aren't sure where to begin. The trips are presented by region to make it easier to
           match up a trip with your location.</p></li>
@@ -59,21 +59,21 @@
 
     <h4>References and Related Material</h4>
     <ul>
-      <li><p><a href="references.html">Printed references</a> that might be of interest to New
+      <li><p><a href="references.php">Printed references</a> that might be of interest to New
           England waterfall enthusiasts.</p></li>
 
-      <li><p><a href="other.html">Other waterfall links</a>. If you know of something I missed,
+      <li><p><a href="other.php">Other waterfall links</a>. If you know of something I missed,
           let me know.</p></li>
 
-      <li><p><a href="related.html">Related links</a>. Organizations or resources not specifically
+      <li><p><a href="related.php">Related links</a>. Organizations or resources not specifically
           about waterfalls but of interest to waterfall enthusiasts.</p></li>
 
-      <li><p><a href="plans.html">Future plans</a> for this page.</p></li>
+      <li><p><a href="plans.php">Future plans</a> for this page.</p></li>
     </ul>
 
     <h4>Credits and Acknowledgments</h4>
     <ul>
-      <li><p><a href="credits.html">Credits</a>. Acknowledgment to those who have helped me,
+      <li><p><a href="credits.php">Credits</a>. Acknowledgment to those who have helped me,
           encouraged me, or tolerated me.</p></li>
 
       <li><p>Some of the pictures that I'm using on this site were sent to me by other people and
@@ -85,7 +85,7 @@
   </div>
 </div>
 
-<p>Thanks for visiting my page. I hope you enjoyed it!</p>
+<p>Thanks for visiting my page. I hope you enjoy it!</p>
 
 <?php include 'signature.html'; ?>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
