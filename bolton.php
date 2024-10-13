@@ -3,7 +3,14 @@
 <html lang="en-US">
 <head>
   <title>Bolton Potholes</title>
-  <meta name="ROBOTS" content="NOARCHIVE"/>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="Author" content="Peter Chapin"/>
+  <meta name="robots" content="noarchive"/>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+        rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+        crossorigin="anonymous">
   <link rel="stylesheet" href="water.css" type="text/css"/>
 </head>
 <body>
@@ -24,10 +31,10 @@ Swimming: Yes
   accessible.</p>
 
 <p>A quick Internet search shows a <a
-    href="http://www.swimmingholes.org/vt.html#BOLTON%20POTHOLES">notation on
-  www.swimmingholes.org</a> that says the town of Bolton has banned parking at the location due to
-  excessive illegal parking. So unfortunately, the popularity of this spot as a swimming hole has
-  apparently been its demise.</p>
+      href="http://www.swimmingholes.org/vt.html#BOLTON%20POTHOLES">notation on
+    www.swimmingholes.org</a> that says the town of Bolton has banned parking at the location due
+  to excessive illegal parking. So unfortunately, the popularity of this spot as a swimming hole
+  has apparently been its demise.</p>
 
 <h3>Description Received October 1, 1996</h3>
 <p>
@@ -85,8 +92,8 @@ Swimming: Yes
   </li>
 
   <li>I left out that there is a dramatic view to the south from the top of the falls. The stream
-    side walls frame a majestic foothill of <a href="../100highest/camel.html"
-    >Camel's Hump</a> Mountain.
+    side walls frame a majestic foothill of <a href="../100highest/camel.html">Camel's Hump</a>
+    Mountain.
   </li>
 
   <li>Unless you're part sea-lion, the water is too cold to endure until July. Even then, you are
@@ -101,8 +108,9 @@ Swimming: Yes
 
 <p>Return to the <a href="list.html">list of waterfalls</a>.</p>
 
-<hr/>
-<address>&copy; Copyright 2012 by Peter Chapin.<br/> Last Revised: <b>October 21, 2012</b>
-</address>
+<?php include 'signature.html'; ?>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
 </body>
 </html>

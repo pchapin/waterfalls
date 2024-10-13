@@ -3,7 +3,14 @@
 <html lang="en-US">
 <head>
   <title>Tenant Creek Falls</title>
-  <meta name="ROBOTS" content="NOARCHIVE"/>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="Author" content="Peter Chapin"/>
+  <meta name="robots" content="noarchive"/>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+        rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+        crossorigin="anonymous">
   <link rel="stylesheet" href="water.css" type="text/css"/>
 </head>
 <body>
@@ -114,7 +121,7 @@ Legal   : Adirondack Park.
 
 <p>About another 250 yards upstream from these falls are, in my opinion, the best of the three
   waterfalls that grace Tenant Creek. The falls are at the back of a large, fairly deep pool
-  surronded by small cliffs. They are about 30 feet high. The water cascades over many ledges,
+   surrounded by small cliffs. They are about 30 feet high. The water cascades over many ledges,
   this time with no incline, to the pool. On the left side of the falls, the water falls with less
   interruption. Explore the area for different angles from which to view the falls. I got what I
   considered the best picture from the rocks below the pool at the base of the falls.</p>
@@ -132,7 +139,9 @@ Legal   : Adirondack Park.
 
 <p>Return to the <a href="list.html">list of waterfalls</a>.</p>
 
-<hr/>
-<address>&copy; Copyright 1999 by Jon Binder.<br/> Last Revised: <b>March 20, 1999</b></address>
+<?php include 'signature.html'; ?>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
 </body>
 </html>

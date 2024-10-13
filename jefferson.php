@@ -3,8 +3,14 @@
 <html lang="en-US">
 <head>
   <title>Jefferson Falls</title>
-  <meta name="Author" content="Peter C. Chapin"/>
-  <meta name="ROBOTS" content="NOARCHIVE"/>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="Author" content="Peter Chapin"/>
+  <meta name="robots" content="noarchive"/>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+        rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+        crossorigin="anonymous">
   <link rel="stylesheet" href="water.css" type="text/css"/>
 </head>
 
@@ -90,8 +96,9 @@ Legal   : Open to public. Land conserved by the Vermont Land Trust &amp; town of
 
 <p>Return to the <a href="list.html">list of waterfalls</a>.</p>
 
-<hr/>
-<address>&copy; Copyright 2019 by Peter Chapin.<br/> Last Revised: <b>September 6, 2019</b><br/>
-</address>
+<?php include 'signature.html'; ?>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
 </body>
 </html>

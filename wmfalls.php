@@ -3,23 +3,31 @@
 <html lang="en-US">
 <head>
   <title>White Mountain Waterfalls</title>
-  <meta name="ROBOTS" content="NOARCHIVE"/>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="Author" content="Peter Chapin"/>
+  <meta name="robots" content="noarchive"/>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+        rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+        crossorigin="anonymous">
   <link rel="stylesheet" href="water.css" type="text/css"/>
 </head>
 <body>
 <h1>White Mountain Waterfalls</h1>
+
 <p>This list will eventually be a fairly complete list of waterfalls in the White Mountains of New
   Hampshire. The entries in this list are brief, but the links take you to my full description of
-  each of the falls (at least for the falls I've visited). Many of these falls I have not yet
+  each falls (at least for the falls I've visited). Many of these falls I have not yet
   visited but hope to do so eventually.</p>
 
 <p>There are many waterfalls in the White Mountains. Some are roadside attractions while others
   require a significant amount of hiking to reach. If you are interested in looking at waterfalls
   while in the White Mountains, then I strongly suggest picking up a copy of <i> <a
-      href="references.html">Waterfalls of the White Mountains</a> </i> by Bruce and Doreen
+        href="references.html">Waterfalls of the White Mountains</a> </i> by Bruce and Doreen
   Bolnick. It is an excellent book on the subject.</p>
 
-<p>The starting point for this list was sent to me by Brad Charbonneau. I've edited his list and
+<p>Brad Charbonneau sent the starting point for this list to me. I've edited his list and
   added to it. There are still many more falls to add.</p>
 
 <ul>
@@ -37,7 +45,7 @@
     feet of cascades along a steep, rough trail.
   </li>
   <li>Beaver Brook Falls, Rt 145 between Colebrook and Stewartstown Hollow.</li>
-  <li>Beede or Bearcamp Falls, 20', 0.3miles up Sandwich Notch Road from Center Sandwich.</li>
+  <li>Beede or Bearcamp Falls, 20', 0.3 miles up Sandwich Notch Road from Center Sandwich.</li>
   <li><a href="bemis.html">Bemis Brook Falls</a> and <a href="coliseum.html">Coliseum Falls</a> in
     Crawford Notch State Park. Along the trail to Arethusa Falls.
   </li>
@@ -45,7 +53,7 @@
     80' high.
   </li>
   <li><a href="casbrk.html">Cascade Brook</a>. A fascinating stream a short hike from <a
-      href="basin.html">The Basin</a>.
+        href="basin.html">The Basin</a>.
   </li>
   <li>Champney Falls, minutes from Conway off Kancamagus Highway.</li>
   <li>Crystal Cascade, 0.3mile trail from Pinkham Notch Camp of AMC.</li>
@@ -53,14 +61,14 @@
   <li>Dixville Notch, E. of Dixville Notch on Rt 26.</li>
   <li>Falling Waters Trail, opposite Lafayette Campground in Franconia Notch (5 falls).</li>
   <li><a href="flumecas.html">Flume Cascade</a> and <a href="silver-cascades.html">Silver
-    Cascade</a>, N or Rt 302 in Crawford Notch.
+      Cascade</a>, N or Rt 302 in Crawford Notch.
   </li>
   <li>Flume Gorge, beside Rt 3 in Franconia notch, 5 miles N of Lincoln.</li>
   <li><a href="giant.html">Giant Falls</a>. Along the Peabody Brook Trail in Shelburne.</li>
   <li><a href="glenellis.html">Glen Ellis Falls</a>, 65' high. Rt 16 in Pinkham Notch.</li>
   <li>Jackson Falls, center of Jackson Village beside Carter Notch Rd.</li>
   <li><a href="kinsman.html">Kinsman Falls</a> in Franconia Notch. A short hike from <a
-      href="basin.html">The Basin</a>.
+        href="basin.html">The Basin</a>.
   </li>
   <li>Lost River, Kinsman Notch, 7 miles W. of North Woodstock on Rt 112.</li>
   <li>Lower Falls, on the Kancamagus Hwy, near the road between Conway and Passaconway.</li>
@@ -82,8 +90,9 @@
 
 <p>Return to the <a href="list.html">list of waterfalls</a>.</p>
 
-<hr/>
-<address>&copy;
-  Copyright 2002 by Peter Chapin.<br/> Last Revised: <b>April 1, 2002</b></address>
+<?php include 'signature.html'; ?>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
 </body>
 </html>

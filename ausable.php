@@ -3,9 +3,14 @@
 <html lang="en-US">
 <head>
   <title>Ausable Chasm</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii"/>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="Author" content="Peter Chapin"/>
-  <meta name="ROBOTS" content="NOARCHIVE"/>
+  <meta name="robots" content="noarchive"/>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+        rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+        crossorigin="anonymous">
   <link rel="stylesheet" href="water.css" type="text/css"/>
 </head>
 <body>
@@ -24,16 +29,16 @@
     later.</i>
 </p>
 <pre>
-Overview: 
+Overview:
 Location: Ausable/Chesterfield, NY
 Stream  : Ausable River
-Height  : 
-Finding : 
-Access  : 
-Swimming: 
-Basking : 
+Height  :
+Finding :
+Access  :
+Swimming:
+Basking :
 Privacy :
-Legal   : 
+Legal   :
 </pre>
 <hr/>
 <h2>Directions</h2>
@@ -61,11 +66,9 @@ Legal   :
 </dl>
 <p>Return to the <a href="list.html">list of waterfalls</a>.</p>
 
-<!-- BEGIN signature block -->
-<hr/>
-<address>&copy; Copyright 2005 by Peter Chapin.<br/> Last Revised: <b>June 27, 2005</b><br/>
-</address>
-<!-- END signature block -->
-
+<?php include 'signature.html'; ?>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
 </body>
 </html>
