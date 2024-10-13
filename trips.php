@@ -95,7 +95,7 @@
   </dd>
 </dl>
 
-<p>Return to the <a href="index.php">New England Waterfall Page</a>.</p>
+<p>Return to the <a href="index.html">New England Waterfall Page</a>.</p>
 
 <?php include 'signature.html'; ?>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"

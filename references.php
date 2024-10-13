@@ -23,7 +23,7 @@
   on-line references, check out my <a href="other.html">Other Links</a> page.</p>
 
 <p>The following printed materials might be of interest to any waterfall enthusiast focusing on
-  the New England region (New England, and bordering New York and Quebec).</p>
+  the New England region (New England, and bordering New York and Québec).</p>
 
 <ul>
   <li><p><b><i>New England Waterfalls</i></b>, third edition, by Greg Parsons &amp; Kate B.
@@ -31,7 +31,7 @@
       978-1-68268-118-3 (<a
           href="https://www.amazon.com/New-England-Waterfalls-Guide-Cascades/dp/1682681181/">On
         Amazon</a>). This is an excellent book for anyone interested in the waterfalls of New
-      England. It has a scope and style similar to this website although it contains many falls
+      England. It has a scope and style similar to this website, although it contains many falls
       not covered by me here. The book has summary information, descriptions, and directions
       (including GPS coordinates) for all falls covered as well as many pictures. Highly
       recommended.</p></li>
@@ -120,7 +120,7 @@
   DeLorme maps are off. There are instances where the location marked for a waterfall is
   significantly far away from the actual location.</p>
 
-<p>Return to the <a href="index.php">Waterfalls of the New England Region</a> page.</p>
+<p>Return to the <a href="index.html">Waterfalls of the New England Region</a> page.</p>
 
 <?php include 'signature.html'; ?>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"

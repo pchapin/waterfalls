@@ -20,7 +20,7 @@
 <h2>New Material?</h2>
 
 <p>It has been a long time since I've done much visiting of waterfalls. The rest of my life has
-  kept me busy. I will be retiring shortly. When that happens I hope to have more time for being
+  kept me busy. I will be retiring shortly. When that happens, I hope to have more time for being
   out in the wilder part of the world (and for working on this website).</p>
 
 <hr/>
@@ -30,7 +30,7 @@
   that I've had for months (years!), but that have never appeared on this site. I can also rescan
   photos that are on this site, but that are of poor quality (largely due to my lousy
   post-processing technique). Look for steady improvements in the quality of the images on this
-  site over the coming months. See the "<a href="new.php">What's New?</a>" page for the details.
+  site over the coming months. See the "<a href="new.html">What's New?</a>" page for the details.
 </p>
 
 <p>Unlike what I've done in the past, I intend to keep archival copies of any scans that I do so
@@ -46,7 +46,7 @@
 <hr/>
 <h2>Trip Planner</h2>
 
-<p>Quite some time ago I started work on a <a href="trips.php">Waterfall Trips</a> page that
+<p>Quite some time ago I started work on a <a href="trips.html">Waterfall Trips</a> page that
   summarizes some "prepackaged" trips (or tours) people might take. I still think that's a good
   idea, and I hope to extend that page. I'm also considering creating regional summaries of
   waterfalls in the manner of my <a href="wmfalls.html">White Mountain Waterfalls</a> page. That
@@ -75,7 +75,7 @@
 
 <p>Stay tuned for developments!</p>
 
-<p>Return to the <a href="index.php">Waterfalls of the New England Region</a> page.</p>
+<p>Return to the <a href="index.html">Waterfalls of the New England Region</a> page.</p>
 
 <?php include 'signature.html'; ?>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
