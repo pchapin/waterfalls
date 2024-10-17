@@ -31,8 +31,8 @@
 
 <h2>Connecticut</h2>
 <ul>
-  <li><a href="kent.html">Kent Falls</a>, Kent.</li>
-  <li><a href="wadsworth.html">Wadsworth Falls</a>, Middlefield.</li>
+  <li><a href="CT/kent.html">Kent Falls</a>, Kent.</li>
+  <li><a href="CT/wadsworth.html">Wadsworth Falls</a>, Middlefield.</li>
 </ul>
 
 <h2>Maine</h2>
@@ -108,7 +108,7 @@
 
 <h2>Rhode Island</h2>
 <ul>
-  <li><a href="stepstone.html">Stepstone Falls</a>, West Greenwich.</li>
+  <li><a href="RI/stepstone.html">Stepstone Falls</a>, West Greenwich.</li>
 </ul>
 
 <h2>Vermont</h2>
