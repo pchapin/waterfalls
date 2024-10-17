@@ -37,7 +37,7 @@
       recommended.</p></li>
 
   <li><p><b><i>Hiking Waterfalls in New England</i></b> by Eli Burakian. <a
-          href="http://falcon.com/">Falcon Guides</a>, &copy; 2022. ISBN 978-1493063604 (<a
+          href="http://https://www.falconguides.com/">Falcon Guides</a>, &copy; 2022. ISBN 978-1493063604 (<a
           href="https://www.amazon.com/Hiking-Waterfalls-New-England-Waterfall-dp-149306360X/dp/149306360X">On
         Amazon</a>). Although this book covers many of the same falls as the book above, it
       emphasizes, as the title suggests, falls that requiring hiking to reach. The book contains
@@ -45,13 +45,13 @@
     </p></li>
 
   <li><p><b><i>Hiking Waterfalls Maine</i></b> by Greg Westrich. <a
-          href="http://falcon.com/">Falcon Guides</a>, &copy; 2020. ISBN 978-1493041916 (<a
+          href="http://https://www.falconguides.com/">Falcon Guides</a>, &copy; 2020. ISBN 978-1493041916 (<a
           href="https://www.amazon.com/Hiking-Waterfalls-Maine-States-Waterfall/dp/1493041916/">Amazon</a>).
       As you can surmise from the title, this book focuses on Maine waterfalls that can be reached
       by hikers.</p></li>
 
   <li><p><b><i>Hiking Waterfalls New York</i></b> by Randi Minetor. <a
-          href="http://falcon.com/">Falcon Guides</a>, &copy; 2025. ISBN 978-1493079483 (<a
+          href="http://https://www.falconguides.com/">Falcon Guides</a>, &copy; 2025. ISBN 978-1493079483 (<a
           href="https://www.amazon.com/Hiking-Waterfalls-New-York-Waterfall-dp-1493079484/dp/1493079484">On
         Amazon</a>). This book is in a similar style to the other Falcon Guides mentioned above.
       In fact, there are Falcon Guides for waterfall hikes in many states.</p>
