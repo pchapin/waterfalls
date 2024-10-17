@@ -11,7 +11,7 @@
         rel="stylesheet"
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
         crossorigin="anonymous">
-  <link rel="stylesheet" href="water.css" type="text/css"/>
+  <link rel="stylesheet" href="../water.css" type="text/css"/>
 </head>
 <body>
 <h1>Finger Lakes Waterfalls</h1>
@@ -126,9 +126,9 @@ Legal   : State park. Admission $5.00 (1997).
 
 <p style="clear: right;"/>
 
-<p>Return to the <a href="list.html">list of waterfalls</a>.</p>
+<p>Return to the <a href="../list.html">list of waterfalls</a>.</p>
 
-<?php include 'signature.html'; ?>
+<?php include '../signature.html'; ?>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
         crossorigin="anonymous"></script>

@@ -5,13 +5,13 @@
   <title>Photographing Waterfalls</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="Author" content="Peter Chapin"/>
-  <meta name="robots" content="noarchive"/>
+  <meta name="Author" content="Peter Chapin">
+  <meta name="robots" content="noarchive">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
         rel="stylesheet"
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
         crossorigin="anonymous">
-  <link rel="stylesheet" href="water.css" type="text/css"/>
+  <link rel="stylesheet" href="water.css" type="text/css">
 </head>
 <body>
 <h1>Photographing Waterfalls</h1>
@@ -48,15 +48,15 @@
 <h2>The Right Location</h2>
 
 <p>Almost without fail, waterfalls look better <a href="photos/moss-glenn-granville-01.jpg">from
-  below</a> than they do from above. If at all possible, try to get below the falls when taking
+    below</a> than they do from above. If at all possible, try to get below the falls when taking
   pictures of them.</p>
 
 <p>Try to include enough context to get some scale. <a href="photos/bailey-01.jpg">People are
-  good</a> for that, although too many people are a distraction. Yet even trees, logs, and other
+    good</a> for that, although too many people are a distraction. Yet even trees, logs, and other
   natural items can serve to put the falls into context. For example, the log at the bottom of <a
       href="photos/hamilton1.jpg">this picture</a> is enough to give the viewer a feeling for the
   scale of the falls. In contrast, you would never know that these falls are about 80 feet high
-  from <a href="guest_photos/bashbish.jpg">this picture</a>!</p>
+  from <a href="MA/guest_photos/bashbish.jpg">this picture</a>!</p>
 
 <p>It is usually best to avoid direct, straight on shots. Take your picture at a slight angle if
   you can. Sometimes it's very difficult to find the best angle from which to photograph a

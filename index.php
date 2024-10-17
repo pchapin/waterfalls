@@ -5,13 +5,13 @@
   <title>Waterfalls of New England</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="Author" content="Peter Chapin"/>
-  <meta name="robots" content="noarchive"/>
+  <meta name="Author" content="Peter Chapin">
+  <meta name="robots" content="noarchive">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
         rel="stylesheet"
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
         crossorigin="anonymous">
-  <link rel="stylesheet" href="water.css" type="text/css"/>
+  <link rel="stylesheet" href="water.css" type="text/css">
 </head>
 <body>
 <div class="container pt-3 pb-3">
@@ -26,7 +26,7 @@
   </div>
 </div>
 
-<p style="color: orange"><i>This website is in the process of being overhauled and modernized.
+<p style="color: darkred"><i>This website is in the process of being overhauled and modernized.
     Please excuse any breakage or inconsistencies while I work on this upgrade. This website has
     not been enhanced in a long time, so this will (hopefully!) be a welcome change when it is
     finally complete.</i></p>

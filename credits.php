@@ -33,8 +33,8 @@
 
 <p>The following list contains the names of other people who have contributed to this site. These
   people all granted me permission to have their name posted here. If you would like to contribute
-  something to my site but would rather not have your name mentioned, that is fine. Just let me
-  know, and I will honor your request. The list below is alphabetical in last name.</p>
+  something to my site but would rather not have your name mentioned, that is fine. Let me know,
+  and I will honor your request. The list below is alphabetical in last name.</p>
 
 <p>
   <i>Note: I used to post email addresses on this page, but in today's world that no longer seems
@@ -44,52 +44,55 @@
 </p>
 
 <ul>
+  <!-- All of Jon's contributions were in NY, which I'm no longer covering.
   <li>
     <p><b>Jon Binder</b> is a waterfall enthusiast with a lot of knowledge of falls in the New
-      York area. He sent me detailed information about <a href="tenant_creek.html">Tenant Creek
-        Falls</a> and <a href="split_rock.html">Split Rock Falls</a> in the Adirondack mountains.
-      He has his own <a href="http://www.angelfire.com/ny4/waterfalls/home.html"
+      York area. He sent me detailed information about <a href="NY/tenant_creek.html">Tenant Creek
+        Falls</a> and <a href="NY/split_rock.html">Split Rock Falls</a> in the Adirondack
+      mountains. He has his own <a href="http://www.angelfire.com/ny4/waterfalls/home.html"
       >waterfall page</a>.</p>
   </li>
+  -->
   <li>
     <p><b>Brad Charbonneau</b> is a photographer and an enthusiast of the <a
-        href="wmfalls.html">waterfalls of the White Mountains</a>. He sent me a very nice list of
-      those falls. I'd like to thank him for the list and for our email conversations about
+          href="wmfalls.html">waterfalls of the White Mountains</a>. He sent me a very nice list
+      of those falls. I'd like to thank him for the list and for our email conversations about
       waterfalls.</p>
   </li>
   <li>
     <p><b>Deanna Flynn</b> sent me a description and picture of <a href="houston.html"
-    >Houston Brook Falls</a>.</p>
+      >Houston Brook Falls</a>.</p>
   </li>
   <li>
     <p><b>Dean Goss</b> sent me an excellent list of <a href="vtwater.html">Vermont</a> and <a
-        href="nhwater.html">New Hampshire</a> waterfalls that I haven't yet seen. He is an avid
+          href="nhwater.html">New Hampshire</a> waterfalls that I haven't yet seen. He is an avid
       waterfall enthusiast, and we've exchanged a fair amount of email over the months.</p>
   </li>
   <li>
-    <p><b>Mike</b> sent me a list of <a href="mawater.html">Massachusetts waterfalls</a> that I
-      haven't yet seen and some very nice pictures of <a href="doanes.html">Doanes Falls</a>. He
-      also sent me information about an <a href="weymouth.html">unnamed falls in Weymouth, MA</a>.
+    <p><b>Mike</b> sent me a list of <a href="MA/mawater.html">Massachusetts waterfalls</a> that I
+      haven't yet seen and some very nice pictures of <a href="MA/doanes.html">Doanes Falls</a>.
+      He also sent me information about an <a href="MA/weymouth.html">unnamed falls in Weymouth,
+        MA</a>.
     </p>
   </li>
   <li>
     <p><b>Kim Nilsen</b>, president of the Cohos Trail Association, drew my attention to <a
-        href="nhwater.html">several waterfalls</a> in northern New Hampshire and to the developing
-      Cohos Trail.</p>
+          href="nhwater.html">several waterfalls</a> in northern New Hampshire and to the
+      developing Cohos Trail.</p>
   </li>
   <li>
     <p><b>John Roberts</b> sent me a very nice description of <a href="bolton.html">Bolton
-      Potholes</a> along with some pictures of the potholes.</p>
+        Potholes</a> along with some pictures of the potholes.</p>
   </li>
   <li>
     <p><b>Roy Sunter</b> sent me some information on a few <a href="nhwater.html">waterfalls in
-      south-western New Hampshire</a> that I haven't yet seen, a list of some <a
-        href="mawater.html">interesting spots in Massachusetts</a>, and some additional
-      information about <a href="royalston.html">Royalston Falls</a>.</p>
+        south-western New Hampshire</a> that I haven't yet seen, a list of some <a
+          href="MA/mawater.html">interesting spots in Massachusetts</a>, and some additional
+      information about <a href="MA/royalston.html">Royalston Falls</a>.</p>
   </li>
   <li>
-    <p><b>Rick Tyrseck</b> sent me an excellent picture of <a href="bashbish.html">Bash Bish
-      Falls</a> in Massachusetts.</p>
+    <p><b>Rick Tyrseck</b> sent me an excellent picture of <a href="MA/bashbish.html">Bash Bish
+        Falls</a> in Massachusetts.</p>
   </li>
 </ul>
 

@@ -5,13 +5,13 @@
   <title>List of Waterfalls</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="Author" content="Peter Chapin"/>
-  <meta name="robots" content="noarchive"/>
+  <meta name="Author" content="Peter Chapin">
+  <meta name="robots" content="noarchive">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
         rel="stylesheet"
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
         crossorigin="anonymous">
-  <link rel="stylesheet" href="water.css" type="text/css"/>
+  <link rel="stylesheet" href="water.css" type="text/css">
 </head>
 <body>
 <h1>List of Waterfalls</h1>
@@ -96,15 +96,6 @@
 
 <p>Here is a list of <a href="nhwater.html">other New Hampshire waterfalls</a> that I haven't yet
   visited.</p>
-
-<h2>New York</h2>
-<ul>
-  <li><a href="ausable.html">Ausable Chasm</a>, Ausable/Chesterfield.</li>
-  <li><a href="niagara.html">Niagara Falls</a>, Niagara Falls.</li>
-  <li><a href="finger.html">Finger Lakes Region</a>.</li>
-  <li><a href="split_rock.html">Split Rock Falls</a>, Elizabethtown.</li>
-  <li><a href="tenant_creek.html">Tenant Creek Falls</a>, Hope.</li>
-</ul>
 
 <h2>Rhode Island</h2>
 <ul>

@@ -11,7 +11,7 @@
         rel="stylesheet"
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
         crossorigin="anonymous">
-  <link rel="stylesheet" href="water.css" type="text/css"/>
+  <link rel="stylesheet" href="../water.css" type="text/css"/>
 </head>
 <body>
 <table>
@@ -62,7 +62,7 @@ Legal   : Open to the public.
   fact, <a href="arethusa.html">Arethusa Falls</a> in the White Mountains of New Hampshire and <a
       href="finger.html#taughannock">Taughannock Falls</a> in the Finger Lakes region of New York
   both boast single vertical drops in excess of 200 feet. Niagara does not even make the chart
-  when compared to the truely high waterfalls of the world (Angel Falls in Venezuela is the
+  when compared to the truly high waterfalls of the world (Angel Falls in Venezuela is the
   highest at an astonishing 3281 feet).</p>
 
 <p>Hillary and I arrived in Niagara Falls, Ontario in the late afternoon on Monday. After securing
@@ -172,9 +172,9 @@ Legal   : Open to the public.
     Niagara Falls</a>. Finally, check out <a href="http://www.iaw.com/~falls/">Thunder Alley</a>,
   a site dedicated to Niagara Falls education and tourism.</p>
 
-<p>Return to the <a href="list.html">list of waterfalls</a>.</p>
+<p>Return to the <a href="../list.html">list of waterfalls</a>.</p>
 
-<?php include 'signature.html'; ?>
+<?php include '../signature.html'; ?>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
         crossorigin="anonymous"></script>
