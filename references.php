@@ -26,9 +26,9 @@
   the New England region (New England, and bordering New York and Québec).</p>
 
 <ul>
-  <li><p><b><i>New England Waterfalls</i></b>, third edition, by Greg Parsons &amp; Kate B.
-      Watson. <a href="http://www.countrymanpress.com">The Countryman Press</a>, &copy; 2019. ISBN
-      978-1-68268-118-3 (<a
+  <li><p><b><i>New England Waterfalls</i></b> (third edition) by Greg Parsons &amp; Kate
+      B. Watson. <a href="http://www.countrymanpress.com">The Countryman Press</a>, &copy; 2019.
+      ISBN 978-1-68268-118-3 (<a
           href="https://www.amazon.com/New-England-Waterfalls-Guide-Cascades/dp/1682681181/">On
         Amazon</a>). This is an excellent book for anyone interested in the waterfalls of New
       England. It has a scope and style similar to this website, although it contains many falls
@@ -37,12 +37,25 @@
       recommended.</p></li>
 
   <li><p><b><i>Hiking Waterfalls in New England</i></b> by Eli Burakian. <a
-          href="http://falcon.com/">Falcon Guides</a>, &copy; 2015. ISBN 978-0-7627-8685-5 (<a
-          href="https://www.amazon.com/Hiking-Waterfalls-New-England-Waterfall/dp/076278685X/">On
+          href="http://falcon.com/">Falcon Guides</a>, &copy; 2022. ISBN 978-1493063604 (<a
+          href="https://www.amazon.com/Hiking-Waterfalls-New-England-Waterfall-dp-149306360X/dp/149306360X">On
         Amazon</a>). Although this book covers many of the same falls as the book above, it
       emphasizes, as the title suggests, falls that requiring hiking to reach. The book contains
       maps for each of the falls and information about reaching them that are relevant for hikers.
     </p></li>
+
+  <li><p><b><i>Hiking Waterfalls Maine</i></b> by Greg Westrich. <a
+          href="http://falcon.com/">Falcon Guides</a>, &copy; 2020. ISBN 978-1493041916 (<a
+          href="https://www.amazon.com/Hiking-Waterfalls-Maine-States-Waterfall/dp/1493041916/">Amazon</a>).
+      As you can surmise from the title, this book focuses on Maine waterfalls that can be reached
+      by hikers.</p></li>
+
+  <li><p><b><i>Hiking Waterfalls New York</i></b> by Randi Minetor. <a
+          href="http://falcon.com/">Falcon Guides</a>, &copy; 2025. ISBN 978-1493079483 (<a
+          href="https://www.amazon.com/Hiking-Waterfalls-New-York-Waterfall-dp-1493079484/dp/1493079484">On
+        Amazon</a>). This book is in a similar style to the other Falcon Guides mentioned above.
+      In fact, there are Falcon Guides for waterfall hikes in many states.</p>
+  </li>
 
   <li><p><b><i>Vermont Waterfalls</i></b> by Russell Dunn. <a
           href="http://www.countrymanpress.com">The Countryman Press</a>, &copy; 2015. ISBN
@@ -83,15 +96,14 @@
   <li><p>The Adirondack Mountain Club's <b><i>Guide to Adirondack Trails</i></b> comes in seven
       volumes to cover the entire Adirondack region. In addition to being one of the most
       authoritative sources of information about hiking in the Adirondacks, these guides also
-      describe numerous waterfalls in the area. Don't travel in the Adirondacks without having the
+      describe many waterfalls in the area. Don't travel in the Adirondacks without having the
       proper ADK guide on hand!</p></li>
 
-  <li><p><b><i>Hiking Waterfalls New York</i></b> by Randi Minetor. <a
-          href="http://falcon.com/">Falcon Guides</a>, &copy; 2019. ISBN 978-1-4930-4103-9 (<a
-          href="https://www.amazon.com/Hiking-Waterfalls-New-York-Waterfall/dp/1493041037/">On
-        Amazon</a>). This book is in a similar style to the Falcon Guide mentioned above on New
-      England waterfalls. In fact, there are Falcon Guides for waterfall hikes in many states.</p>
-  </li>
+  <li><p>Waterfalls of New York State by Scott A. Ensminger, David J. Schryver, and Edward M. 
+      Smathers. Firefly Books, &copy; 2012. ISBN 978-1554079865 (<a
+          href="https://www.amazon.com/Waterfalls-York-State-Scott-Ensminger/dp/1554079861/">Amazon</a>).
+      This book contains many wonderful photographs along with descriptive text about more than
+      100 waterfalls around New York.</p></li>
 
   <li><p><b><i>Waterfalls of the Adirondacks and Catskills</i></b> by Derek Doeffinger and Keith
       Boas. McBrooks Press, &copy; ISBN 0-935526-62-5. This is picture book that contains many

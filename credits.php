@@ -64,8 +64,7 @@
   <li>
     <p><b>Dean Goss</b> sent me an excellent list of <a href="vtwater.html">Vermont</a> and <a
         href="nhwater.html">New Hampshire</a> waterfalls that I haven't yet seen. He is an avid
-      waterfall enthusiast, and we've exchanged a fair amount of email over the months. He has his
-      own <a href="http://www.northeastwaterfalls.com/"> waterfall page</a>.</p>
+      waterfall enthusiast, and we've exchanged a fair amount of email over the months.</p>
   </li>
   <li>
     <p><b>Mike</b> sent me a list of <a href="mawater.html">Massachusetts waterfalls</a> that I
