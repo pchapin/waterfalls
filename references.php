@@ -37,33 +37,36 @@
       recommended.</p></li>
 
   <li><p><b><i>Hiking Waterfalls in New England</i></b> by Eli Burakian. <a
-          href="http://https://www.falconguides.com/">Falcon Guides</a>, &copy; 2022. ISBN 978-1493063604 (<a
-          href="https://www.amazon.com/Hiking-Waterfalls-New-England-Waterfall-dp-149306360X/dp/149306360X">On
-        Amazon</a>). Although this book covers many of the same falls as the book above, it
-      emphasizes, as the title suggests, falls that requiring hiking to reach. The book contains
-      maps for each of the falls and information about reaching them that are relevant for hikers.
+          href="http://https://www.falconguides.com/">Falcon Guides</a>, &copy; 2022. ISBN
+      978-1493063604 (<a
+          href="https://www.amazon.com/Hiking-Waterfalls-New-England-Waterfall-dp-149306360X/dp/149306360X">Amazon</a>).
+      Although this book covers many of the same falls as the book above, it emphasizes, as the
+      title suggests, falls that requiring hiking to reach. The book contains maps for each of the
+      falls and information about reaching them that are relevant for hikers.
     </p></li>
 
   <li><p><b><i>Hiking Waterfalls Maine</i></b> by Greg Westrich. <a
-          href="http://https://www.falconguides.com/">Falcon Guides</a>, &copy; 2020. ISBN 978-1493041916 (<a
+          href="http://https://www.falconguides.com/">Falcon Guides</a>, &copy; 2020. ISBN
+      978-1493041916 (<a
           href="https://www.amazon.com/Hiking-Waterfalls-Maine-States-Waterfall/dp/1493041916/">Amazon</a>).
       As you can surmise from the title, this book focuses on Maine waterfalls that can be reached
       by hikers.</p></li>
 
   <li><p><b><i>Hiking Waterfalls New York</i></b> by Randi Minetor. <a
-          href="http://https://www.falconguides.com/">Falcon Guides</a>, &copy; 2025. ISBN 978-1493079483 (<a
-          href="https://www.amazon.com/Hiking-Waterfalls-New-York-Waterfall-dp-1493079484/dp/1493079484">On
-        Amazon</a>). This book is in a similar style to the other Falcon Guides mentioned above.
-      In fact, there are Falcon Guides for waterfall hikes in many states.</p>
+          href="http://https://www.falconguides.com/">Falcon Guides</a>, &copy; 2025. ISBN
+      978-1493079483 (<a
+          href="https://www.amazon.com/Hiking-Waterfalls-New-York-Waterfall-dp-1493079484/dp/1493079484">Amazon</a>).
+      This book is in a similar style to the other Falcon Guides mentioned above. In fact, there
+      are Falcon Guides for waterfall hikes in many states.</p>
   </li>
 
   <li><p><b><i>Vermont Waterfalls</i></b> by Russell Dunn. <a
           href="http://www.countrymanpress.com">The Countryman Press</a>, &copy; 2015. ISBN
       978-1-58157-240-7 (<a
-          href="https://www.amazon.com/Vermont-Waterfalls-Russell-Dunn/dp/1581572409/">On
-        Amazon</a>). This excellent book by fellow waterfall enthusiast Russell Dunn focuses on
-      Vermont. It is organized with a similar style to this website, although it contains
-      interesting historical information about each fall.</p></li>
+          href="https://www.amazon.com/Vermont-Waterfalls-Russell-Dunn/dp/1581572409/">Amazon</a>).
+      This excellent book by fellow waterfall enthusiast Russell Dunn focuses on Vermont. It is
+      organized with a similar style to this website, although it contains interesting historical
+      information about each fall.</p></li>
 
   <li><p><b><i>Waterfalls of the White Mountains</i></b> (Second Edition) by Bruce, Doreen, and
       Daniel Bolnick. Backcountry Publications, &copy; 1999. ISBN 0-88150-464-5. This book is a
@@ -80,11 +83,12 @@
   <li><p><b><i>A Guide to Natural Places in the Berkshire Hills</i></b> by Ren&eacute;
       Laubach. Berkshire House, &copy; 1992. ISBN 0-936399-25-2. This book describes a number of
       interesting natural areas in Berkshire County, Massachusetts. Several waterfalls are
-      described: <a href="campbell.html">Campbell Falls</a>, <a href="bashbish.html">Bash Bish
-        Falls</a>, <a href="wahconah.html">Wahconah Falls</a>, and <a
-          href="wjambs.html">Windsor Jambs</a>. For each area described, the author focuses on the
-      entire ecosystem of that area. For example, he describes the plant and animal communities to
-      be found there. This broad treatment puts a nice perspective on the falls.</p></li>
+      described: <a href="MA/campbell.html">Campbell Falls</a>, <a href="MA/bashbish.html">Bash
+        Bish Falls</a>, <a href="MA/wahconah.html">Wahconah Falls</a>, and <a
+          href="MA/wjambs.html">Windsor Jambs</a>. For each area described, the author focuses on
+      the entire ecosystem of that area. For example, he describes the plant and animal
+      communities to be found there. This broad treatment puts a nice perspective on the falls.
+    </p></li>
 
   <li><p><b><i>AMC White Mountain Guide</i></b> by the <a
           href="http://www.outdoors.org">Appalachian Mountain Club</a>; published by the AMC, 29th
@@ -99,8 +103,8 @@
       describe many waterfalls in the area. Don't travel in the Adirondacks without having the
       proper ADK guide on hand!</p></li>
 
-  <li><p>Waterfalls of New York State by Scott A. Ensminger, David J. Schryver, and Edward M. 
-      Smathers. Firefly Books, &copy; 2012. ISBN 978-1554079865 (<a
+  <li><p><b><i>Waterfalls of New York State</i></b> by Scott A. Ensminger, David J. Schryver, and
+      Edward M.  Smathers. Firefly Books, &copy; 2012. ISBN 978-1554079865 (<a
           href="https://www.amazon.com/Waterfalls-York-State-Scott-Ensminger/dp/1554079861/">Amazon</a>).
       This book contains many wonderful photographs along with descriptive text about more than
       100 waterfalls around New York.</p></li>

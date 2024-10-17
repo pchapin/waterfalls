@@ -52,24 +52,24 @@
 
 <h2>Massachusetts</h2>
 <ul>
-  <li><a href="bashbish.html">Bash Bish Falls</a>, Mount Washington.</li>
-  <li><a href="bearden.html">Bear's Den</a>, New Salem.</li>
-  <li><a href="briggsbrook.html">Brigg's Brook Falls</a>, Erving.</li>
-  <li><a href="campbell.html">Campbell Falls</a>, New Marlborough.</li>
-  <li><a href="chapelbrook.html">Chapel Brook Falls</a>, Ashfield.</li>
-  <li><a href="chester.html">Chesterfield Gorge</a>, Chesterfield.</li>
-  <li><a href="doanes.html">Doane's Falls</a>, Royalston.</li>
-  <li><a href="glendale.html">Glendale Falls</a>, Middlefield.</li>
-  <li><a href="race.html">Race Brook Falls</a>, Sheffield.</li>
-  <li><a href="royalston.html">Royalston Falls</a>, Royalston.</li>
-  <li><a href="spirit.html">Spirit Falls</a>, Royalston.</li>
-  <li><a href="umpachene.html">Umpachene Falls</a>, New Marlborough.</li>
-  <li><a href="weymouth.html">Unnamed Falls</a>, Weymouth.</li>
-  <li><a href="wahconah.html">Wahconah Falls</a>, Dalton.</li>
-  <li><a href="wjambs.html">Windsor Jambs</a>, Windsor.</li>
+  <li><a href="MA/bashbish.html">Bash Bish Falls</a>, Mount Washington.</li>
+  <li><a href="MA/bearden.html">Bear's Den</a>, New Salem.</li>
+  <li><a href="MA/briggsbrook.html">Brigg's Brook Falls</a>, Erving.</li>
+  <li><a href="MA/campbell.html">Campbell Falls</a>, New Marlborough.</li>
+  <li><a href="MA/chapelbrook.html">Chapel Brook Falls</a>, Ashfield.</li>
+  <li><a href="MA/chester.html">Chesterfield Gorge</a>, Chesterfield.</li>
+  <li><a href="MA/doanes.html">Doane's Falls</a>, Royalston.</li>
+  <li><a href="MA/glendale.html">Glendale Falls</a>, Middlefield.</li>
+  <li><a href="MA/race.html">Race Brook Falls</a>, Sheffield.</li>
+  <li><a href="MA/royalston.html">Royalston Falls</a>, Royalston.</li>
+  <li><a href="MA/spirit.html">Spirit Falls</a>, Royalston.</li>
+  <li><a href="MA/umpachene.html">Umpachene Falls</a>, New Marlborough.</li>
+  <li><a href="MA/weymouth.html">Unnamed Falls</a>, Weymouth.</li>
+  <li><a href="MA/wahconah.html">Wahconah Falls</a>, Dalton.</li>
+  <li><a href="MA/wjambs.html">Windsor Jambs</a>, Windsor.</li>
 </ul>
 
-<p>Here is a list of <a href="mawater.html">Massachusetts waterfalls</a> that I haven't yet
+<p>Here is a list of <a href="MA/mawater.html">Massachusetts waterfalls</a> that I haven't yet
   visited.</p>
 
 <h2>New Hampshire</h2>
