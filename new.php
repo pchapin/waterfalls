@@ -18,6 +18,39 @@
 <hr>
 
 <dl>
+  <dt><b>2024-10-17</b></dt>
+  <dd>
+    <p>Since it has been a long time since I've worked on this site, many of the links to external
+      sites are broken or obsolete. I'm starting to repair those links to make the information
+      presented here more useful and current.</p>
+
+    <p>I've also started moving the waterfall pages for the various states into their own folders.
+      This won't affect the casual visitor (although if you've bookmarked a specific waterfall
+      page, you'll have to update your bookmark to reflect the new location). However, this change
+      does make the site more organized from my point of view, and that will help with future work
+      on it.</p>
+
+    <p>Finally, I've refocused the site exclusively on the waterfalls of New England, meaning the
+      states Vermont, New Hampshire, Maine, Massachusetts, Connecticut, and Rhode Island. In the
+      past I had a slightly expanded scope that included parts of New York and, potentially,
+      Québec. There are other pages that cover those regions, and I decided I want to keep the
+      scope of this page more tightly defined.</p>
+
+    <p>There is a <a href="https://www.newenglandwaterfalls.com/">NewEnglandWaterfalls.com</a>
+      page by Greg Parsons related to a book he co-authored named <i>New England Waterfalls</i>. I
+      feel the name of my page is distinct enough from his to avoid confusion. In any case, I've
+      been using the "Waterfalls of New England" name since 1995 when I first started this page.
+      My intent is to not in any way detract from Greg's work (or his book). In fact, I feel quite
+      the opposite. If you are interested in this coverage area, you should absolutely check out
+      his site!</p>
+
+    <p>And speaking of 1995... It will soon be the 30<sup>th</sup> anniversary of this site. On
+      March 25, 1995, I visited <a href="texas.html">Texas Falls</a> and recorded that visit here
+      as my first entry. I want to do something special to celebrate 30 years of being on the web,
+      but I'm not sure yet what that should be.
+    </p>
+  </dd>
+
   <dt><b>2024-10-10</b></dt>
   <dd>
     <p>I've started the long process of updating this site to use more modern web technologies. It
@@ -30,11 +63,6 @@
       well!</p>
   </dd>
 
-  <dt><b>2020-11-14</b></dt>
-  <dd>
-    <p>I added a trip description for <a href="abbey.html">Abbey Pond Cascades</a>. This gave me
-      an opportunity to get a fresh picture of the upper falls.</p>
-  </dd>
 </dl>
 
 <p>Return to the <a href="index.html">Waterfalls of the New England Region</a> page.</p>

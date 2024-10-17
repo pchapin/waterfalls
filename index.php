@@ -2,7 +2,7 @@
 
 <html lang="en-US">
 <head>
-  <title>Waterfalls of the New England Region</title>
+  <title>Waterfalls of New England</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="Author" content="Peter Chapin"/>
@@ -21,25 +21,29 @@
                                    alt="Old City Falls"/> </a>
     </div>
     <div class="col-8 d-flex align-items-center">
-      <h1>Waterfalls of the New England Region</h1>
+      <h1>Waterfalls of New England</h1>
     </div>
   </div>
 </div>
 
-<p><i>This website is in the process of being overhauled and modernized. Please excuse any
-    inconsistencies while I work on this upgrade. This website has not been enhanced in a long
-    time, so this will (hopefully!) be a welcome change when it is finally complete.</i></p>
+<p style="color: orange"><i>This website is in the process of being overhauled and modernized.
+    Please excuse any breakage or inconsistencies while I work on this upgrade. This website has
+    not been enhanced in a long time, so this will (hopefully!) be a welcome change when it is
+    finally complete.</i></p>
 
-<p>My name is Peter Chapin, and this is my page for waterfall enthusiasts. I focus on the
-  waterfalls of New England and neighboring regions (such as New York and bordering Canada). I
-  pursue waterfalls as a hobby and as an excuse to get outside and into the woods. It's also an
-  opportunity for me to practice with photography and website design. Enjoy the site; I hope you
-  find it interesting and useful.</p>
+<p>My name is Peter Chapin, and this is my page for waterfall enthusiasts. I pursue waterfalls as
+  a hobby and as an excuse to get outside and into the woods. It's also an opportunity for me to
+  practice with photography and website design. Enjoy the site; I hope you find it interesting and
+  useful.</p>
+
+<p><i>Note: If you are looking for Greg Parson's site supporting the book New England
+    Waterfalls</i>, please go to <a href="https://www.newenglandwaterfalls.com/">NewEnglandWaterfalls.com</a>.
+  It is an excellent site with lots of information about the same falls I cover here.</p>
 
 <div class="container pt-3 pb-3" style="border: 1px solid black;">
   <div class="row justify-content-center">
     <p style="text-align: center;"><a href="new.html"><b>What's New?</b></a><br/> Last Revised <b>October
-        10, 2024</b></p>
+        17, 2024</b></p>
 
     <h4>The Waterfalls</h4>
     <ul>
