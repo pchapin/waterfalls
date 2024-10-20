@@ -49,11 +49,11 @@
 <p>Quite some time ago I started work on a <a href="trips.html">Waterfall Trips</a> page that
   summarizes some "prepackaged" trips (or tours) people might take. I still think that's a good
   idea, and I hope to extend that page. I'm also considering creating regional summaries of
-  waterfalls in the manner of my <a href="wmfalls.html">White Mountain Waterfalls</a> page. That
-  way those of you interested in planning your own trips would have an easy way to choose falls
-  based on location (rather than the alphabetical order that I use on my main list). It might be
-  nice for me to create some sort of clickable map where you could find out information about
-  falls based entirely on geographic location.</p>
+  waterfalls in the manner of my <a href="NH/wmfalls.html">White Mountain Waterfalls</a> page.
+  That way those of you interested in planning your own trips would have an easy way to choose
+  falls based on location (rather than the alphabetical order that I use on my main list). It
+  might be nice for me to create some sort of clickable map where you could find out information
+  about falls based entirely on geographic location.</p>
 
 <hr/>
 <h2>Various Things</h2>
@@ -75,7 +75,7 @@
 
 <p>Stay tuned for developments!</p>
 
-<p>Return to the <a href="index.html">Waterfalls of the New England Region</a> page.</p>
+<p>Return to the <a href="index.html">Waterfalls of New England</a> page.</p>
 
 <?php include 'signature.html'; ?>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"

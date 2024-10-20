@@ -136,7 +136,7 @@
   DeLorme maps are off. There are instances where the location marked for a waterfall is
   significantly far away from the actual location.</p>
 
-<p>Return to the <a href="index.html">Waterfalls of the New England Region</a> page.</p>
+<p>Return to the <a href="index.html">Waterfalls of New England</a> page.</p>
 
 <?php include 'signature.html'; ?>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"

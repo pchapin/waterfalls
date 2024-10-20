@@ -24,24 +24,24 @@
 <p>Photographing waterfalls can be difficult. If you are interested in trying it, here is some <a
       href="photo_technique.html">advice</a> I might offer.</p>
 
-<p>My favorite pictures are those of <a href="photos/hamilton1.jpg">Hamilton Falls</a>, <a
-      href="photos/moss-glenn-granville-01.jpg">Moss Glen Falls</a>, <a
-      href="photos/oldjelly.jpg">Old Jelly Mill Falls</a>, and <a href="MA/photos/doanes1.jpg">Doane's
+<p>My favorite pictures are those of <a href="VT/photos/hamilton1.jpg">Hamilton Falls</a>, <a
+      href="VT/photos/moss-glenn-granville-01.jpg">Moss Glen Falls</a>, <a
+      href="VT/photos/oldjelly.jpg">Old Jelly Mill Falls</a>, and <a href="MA/photos/doanes1.jpg">Doane's
     Falls</a>.</p>
 <ul>
 
   <!-- I've got a lot more large format guest pictures than are listed here. Should I list all of
   them, or should I attempt to gradually remove all of my guest photos? -->
   <li>
-    <p><a href="photos/bailey-01.jpg">Bailey Falls</a>. Nice picture of the full falls. This photo
-      is a little too yellow. My friend John Bedard is standing at the base of the falls for
-      scale.(<a href="bailey.html">Description</a>)</p>
+    <p><a href="VT/photos/bailey-01.jpg">Bailey Falls</a>. Nice picture of the full falls. This
+      photo is a little too yellow. My friend John Bedard is standing at the base of the falls for
+      scale.(<a href="VT/bailey.html">Description</a>)</p>
   </li>
 
   <li>
-    <p><a href="photos/bartlett.jpg">Bartlett Falls</a>. A relatively large falls on a significant
-      river. I took this picture with the wide angle lens. It shows. (<a
-          href="bartlett.html">Description</a>)</p>
+    <p><a href="VT/photos/bartlett.jpg">Bartlett Falls</a>. A relatively large falls on a
+      significant river. I took this picture with the wide angle lens. It shows. (<a
+          href="VT/bartlett.html">Description</a>)</p>
   </li>
 
   <li>
@@ -52,16 +52,16 @@
   </li>
 
   <li>
-    <p><a href="photos/bingham.jpg">Bingham Falls</a>. This is a picture of the main part of the
-      falls taken in the summer. The pool below the falls is very beautiful, but this picture
+    <p><a href="VT/photos/bingham.jpg">Bingham Falls</a>. This is a picture of the main part of
+      the falls taken in the summer. The pool below the falls is very beautiful, but this picture
       doesn't convey that as well as I'd like.(<a
-          href="bingham.html">Description</a>)</p>
+          href="VT/bingham.html">Description</a>)</p>
   </li>
 
   <li>
-    <p><a href="photos/bridal.jpg">Bridal Veil Falls</a>. This is a nice picture of the upper
+    <p><a href="NH/photos/bridal.jpg">Bridal Veil Falls</a>. This is a nice picture of the upper
       falls. I had to scramble up some rather slippery, moss-covered rocks to get this picture,
-      but I think it was worth it. (<a href="bridal.html"
+      but I think it was worth it. (<a href="NH/bridal.html"
       >Description</a>)</p>
   </li>
 
@@ -103,15 +103,15 @@
   </li>
 
   <li>
-    <p><a href="photos/dogs-head-01.jpg">Dog's Head Falls</a>. The Lamoille River grinds its way
-      through a stubborn rock formation. (<a href="dogshead.html"
+    <p><a href="VT/photos/dogs-head-01.jpg">Dog's Head Falls</a>. The Lamoille River grinds its
+      way through a stubborn rock formation. (<a href="VT/dogshead.html"
       >Description</a>)</p>
   </li>
 
   <li>
-    <p><a href="photos/glen.jpg">Glen Falls</a>. These falls are located in a deep, dark forest
+    <p><a href="VT/photos/glen.jpg">Glen Falls</a>. These falls are located in a deep, dark forest
       glen. I took this picture in early April. The main falls are covered with a very interesting
-      ice formation. (<a href="glen.html">Description</a>)</p>
+      ice formation. (<a href="VT/glen.html">Description</a>)</p>
   </li>
 
   <li>
@@ -142,58 +142,59 @@
   </li>
 
   <li>
-    <p><a href="photos/hamilton1.jpg">Hamilton Falls</a>. Very nice shot of the falls at high
-      water. This is a very impressive waterfall. (<a href="hamilton.html"
+    <p><a href="VT/photos/hamilton1.jpg">Hamilton Falls</a>. Very nice shot of the falls at high
+      water. This is a very impressive waterfall. (<a href="VT/hamilton.html"
       >Description</a>)</p>
   </li>
 
   <li>
-    <p><a href="photos/kinsman.jpg">Kinsman Falls</a>. This shot was taken with a telephoto lens
-      and is quite nice. The falls are not actually all that high, but this photo makes them look
-      rather impressive. (<a href="kinsman.html">Description</a>)</p>
+    <p><a href="NH/photos/kinsman.jpg">Kinsman Falls</a>. This shot was taken with a telephoto
+      lens and is quite nice. The falls are not actually all that high, but this photo makes them
+      look rather impressive. (<a href="NH/kinsman.html">Description</a>)</p>
   </li>
 
   <li>
-    <p><a href="photos/lana.jpg">The Falls of Lana</a>. The falls as seen from above. It's a very
-      interesting waterfall, but the vantage point of this photograph does not do it justice. (<a
-          href="lana.html">Description</a>)</p>
+    <p><a href="VT/photos/lana.jpg">The Falls of Lana</a>. The falls as seen from above. It's a
+      very interesting waterfall, but the vantage point of this photograph does not do it justice.
+      (<a
+          href="VT/lana.html">Description</a>)</p>
   </li>
 
   <li>
-    <p><a href="photos/lana2.jpg">The Falls of Lana</a>. The upper falls. There are really two
+    <p><a href="VT/photos/lana2.jpg">The Falls of Lana</a>. The upper falls. There are really two
       falls in this picture, one behind the other. These falls are above those in the first
-      picture of the Falls of Lana (see above). (<a href="lana.html"
+      picture of the Falls of Lana (see above). (<a href="VT/lana.html"
       >Description</a>)</p>
   </li>
 
   <li>
-    <p><a href="photos/moss-glenn-granville-01.jpg">Moss Glen Falls #1</a>. Very nice photo of a
-      photogenic waterfall. It's not quite centered because I had to avoid getting the annoying
+    <p><a href="VT/photos/moss-glenn-granville-01.jpg">Moss Glen Falls #1</a>. Very nice photo of
+      a photogenic waterfall. It's not quite centered because I had to avoid getting the annoying
       boardwalk in the field. This was taken in late autumn. Note the ice around the fall's edges.
-      (<a href="moss-glen-granville.html">Description</a>)</p>
+      (<a href="VT/moss-glen-granville.html">Description</a>)</p>
   </li>
 
   <li>
-    <p><a href="photos/oldcity-02.jpg">Old City Falls</a>. The main falls at low water. Very
-      graceful. (<a href="oldcity.html">Description</a>)</p>
+    <p><a href="VT/photos/oldcity-02.jpg">Old City Falls</a>. The main falls at low water. Very
+      graceful. (<a href="VT/oldcity.html">Description</a>)</p>
   </li>
 
   <li>
-    <p><a href="photos/oldcity-03.jpg">Old City Falls</a>. The main falls at low water seen from
-      the side. This picture isn't quite as clear as I would like, but it's still decent. This
-      picture was taken on the same day as the one above. (<a
-          href="oldcity.html">Description</a>)</p>
+    <p><a href="VT/photos/oldcity-03.jpg">Old City Falls</a>. The main falls at low water seen
+      from the side. This picture isn't quite as clear as I would like, but it's still decent.
+      This picture was taken on the same day as the one above. (<a
+          href="VT/oldcity.html">Description</a>)</p>
   </li>
 
   <li>
-    <p><a href="photos/oldcity-04.jpg">Old City Falls</a>. This picture was taken during the wet,
-      rainy summer of 1996. The water is high and the falls are beautiful. (<a
-          href="oldcity.html">Description</a>)</p>
+    <p><a href="VT/photos/oldcity-04.jpg">Old City Falls</a>. This picture was taken during the
+      wet, rainy summer of 1996. The water is high and the falls are beautiful. (<a
+          href="VT/oldcity.html">Description</a>)</p>
   </li>
 
   <li>
-    <p><a href="photos/oldjelly.jpg">Old Jelly Mill Falls</a>. This is a nice photo of gentle
-      falls flowing through an autumn forest. (<a href="oldjelly.html"
+    <p><a href="VT/photos/oldjelly.jpg">Old Jelly Mill Falls</a>. This is a nice photo of gentle
+      falls flowing through an autumn forest. (<a href="VT/oldjelly.html"
       >Description</a>)</p>
   </li>
 
@@ -216,43 +217,43 @@
   </li>
 
   <li>
-    <p><a href="photos/smalls4.jpg">Smalls Falls</a>. This is the main falls as seen from across
-      the pool at the bottom of the falls. I took this picture from the walkway just on the other
-      side of the bridge from the parking lot. I'm sure everyone who visits Smalls Falls has a
-      picture like this one. (<a href="smalls.html"
+    <p><a href="ME/photos/smalls4.jpg">Smalls Falls</a>. This is the main falls as seen from
+      across the pool at the bottom of the falls. I took this picture from the walkway just on the
+      other side of the bridge from the parking lot. I'm sure everyone who visits Smalls Falls has
+      a picture like this one. (<a href="ME/smalls.html"
       >Description</a>)</p>
   </li>
 
   <li>
-    <p><a href="photos/smalls2.jpg">Smalls Falls</a>. This is the upper portion of the falls as
+    <p><a href="ME/photos/smalls2.jpg">Smalls Falls</a>. This is the upper portion of the falls as
       taken from the rocks above. None of the action in this picture is visible in my <a
-          href="photos/smalls1.jpg">first one</a>. However, the smaller drop in the background of
-      this picture is displayed in greater detail in my <a
-          href="photos/smalls3.jpg">third picture</a>. This gives you some idea of how extensive
-      these falls are. (<a href="smalls.html">Description</a>)</p>
+          href="ME/photos/smalls1.jpg">first one</a>. However, the smaller drop in the background
+      of this picture is displayed in greater detail in my <a
+          href="ME/photos/smalls3.jpg">third picture</a>. This gives you some idea of how
+      extensive these falls are. (<a href="ME/smalls.html">Description</a>)</p>
   </li>
 
   <li>
-    <p><a href="photos/smalls3.jpg">Smalls Falls</a>. This is a section of the stream above the
+    <p><a href="ME/photos/smalls3.jpg">Smalls Falls</a>. This is a section of the stream above the
       major part of the falls. Smalls Falls has quite a few drops and, frankly, I rather like the
       more obscure, less visited upper ones. The extreme contrast in this picture was a challenge.
       The water is very overexposed, but it's a good picture anyway. (<a
-          href="smalls.html">Description</a>)</p>
+          href="ME/smalls.html">Description</a>)</p>
   </li>
 
   <li>
-    <p><a href="photos/step1.jpg">Step Falls</a>. This is a nice overview of one interesting
+    <p><a href="ME/photos/step1.jpg">Step Falls</a>. This is a nice overview of one interesting
       section of the falls complex. The stream divides into two delicate sections that flow into a
       large, deep pool at the bottom of the picture. This picture was taken at a time of unusually
-      low water. (<a href="step.html">Description</a>)</p>
+      low water. (<a href="ME/step.html">Description</a>)</p>
   </li>
 
   <li>
-    <p><a href="photos/texas.jpg">Texas Falls</a>. View of one part of the main falls at low
+    <p><a href="VT/photos/texas.jpg">Texas Falls</a>. View of one part of the main falls at low
       water. This picture gives you a good feeling for the gorge through which the falls flows. In
       higher water it's quite an interesting sight. However, in higher water, I doubt very much if
       I would be able to stand where I got this picture. (<a
-          href="texas.html">Description</a>)</p>
+          href="VT/texas.html">Description</a>)</p>
   </li>
 
   <li>
@@ -269,7 +270,7 @@
   </li>
 
   <li>
-    <p><a href="photos/weathersfield1.jpg">Weathersfield Road Cut Falls</a>. This rather nice
+    <p><a href="VT/photos/weathersfield1.jpg">Weathersfield Road Cut Falls</a>. This rather nice
       falls appeared unannounced in a road cut along US Rt. 5 in Weathersfield, VT. My daughter
       Hillary is standing beside the falls. (<a
           href="roadcut.html">Description</a>)</p>
@@ -282,7 +283,7 @@
   </li>
 </ul>
 
-<p>Return to the <a href="index.html">Waterfalls of the New England Region</a> page.</p>
+<p>Return to the <a href="index.html">Waterfalls of New England</a> page.</p>
 
 <?php include 'signature.html'; ?>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"

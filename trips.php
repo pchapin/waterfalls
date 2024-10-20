@@ -41,15 +41,15 @@
   close enough together so that the order in which you visit them is not important.</p>
 
 <ul>
-  <li><a href="doanes.html">Doane's Falls</a>. This is the largest and most spectacular of
+  <li><a href="MA/doanes.html">Doane's Falls</a>. This is the largest and most spectacular of
     Royalston's waterfalls. It is located by the road so that it is also the most accessible.
     However, to see all the falls requires a short hike down the stream.
   </li>
-  <li><a href="royalston.html">Royalston Falls</a>. This waterfall requires a hike of up to 1.5
+  <li><a href="MA/royalston.html">Royalston Falls</a>. This waterfall requires a hike of up to 1.5
     miles one way, depending on how far you dare drive down the access road. It has a remote
     feeling to it that is quite nice.
   </li>
-  <li><a href="spirit.html">Spirit Falls</a>. This waterfall requires a hike of perhaps one mile
+  <li><a href="MA/spirit.html">Spirit Falls</a>. This waterfall requires a hike of perhaps one mile
     over easy terrain. It is the smallest of the three falls in terms of water volume and probably
     the most susceptible to drying up in certain seasons.
   </li>
@@ -95,7 +95,7 @@
   </dd>
 </dl>
 
-<p>Return to the <a href="index.html">New England Waterfall Page</a>.</p>
+<p>Return to the <a href="index.html">Waterfalls of New England</a> page.</p>
 
 <?php include 'signature.html'; ?>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"

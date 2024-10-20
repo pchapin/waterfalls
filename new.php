@@ -18,11 +18,18 @@
 <hr>
 
 <dl>
+  <dt><b>2024-10-19</b></dt>
+  <dd>
+    <p>I completed the large-scale reorganzing of the site. The individual waterfall pages are now
+      all in separate folders by state. I fixed as many links as I could find that needed fixing.
+      Let me know if you discover any broken ones!</p>
+  </dd>
+
   <dt><b>2024-10-17</b></dt>
   <dd>
-    <p>Since it has been a long time since I've worked on this site, many of the links to external
-      sites are broken or obsolete. I'm starting to repair those links to make the information
-      presented here more useful and current.</p>
+    <p>Because it has been a long time since I've worked on this site, many of the links to
+      external sites are broken or obsolete. I'm starting to repair those links to make the
+      information presented here more useful and current.</p>
 
     <p>I've also started moving the waterfall pages for the various states into their own folders.
       This won't affect the casual visitor (although if you've bookmarked a specific waterfall
@@ -33,7 +40,7 @@
     <p>Finally, I've refocused the site exclusively on the waterfalls of New England, meaning the
       states Vermont, New Hampshire, Maine, Massachusetts, Connecticut, and Rhode Island. In the
       past I had a slightly expanded scope that included parts of New York and, potentially,
-      Québec. There are other pages that cover those regions, and I decided I want to keep the
+      Québec. There are other sites that cover those regions, and I decided I want to keep the
       scope of this page more tightly defined.</p>
 
     <p>There is a <a href="https://www.newenglandwaterfalls.com/">NewEnglandWaterfalls.com</a>
@@ -45,9 +52,9 @@
       his site!</p>
 
     <p>And speaking of 1995... It will soon be the 30<sup>th</sup> anniversary of this site. On
-      March 25, 1995, I visited <a href="texas.html">Texas Falls</a> and recorded that visit here
-      as my first entry. I want to do something special to celebrate 30 years of being on the web,
-      but I'm not sure yet what that should be.
+      March 25, 1995, I visited <a href="VT/texas.html">Texas Falls</a> and recorded that visit
+      here as my first entry. I want to do something special to celebrate 30 years of being on the
+      web, but I'm not sure yet what that should be.
     </p>
   </dd>
 
@@ -65,7 +72,7 @@
 
 </dl>
 
-<p>Return to the <a href="index.html">Waterfalls of the New England Region</a> page.</p>
+<p>Return to the <a href="index.html">Waterfalls of New England</a> page.</p>
 
 <?php include 'signature.html'; ?>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"

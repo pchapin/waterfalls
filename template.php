@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td>
-      <a href="photos/somephoto-01-YYYYMMDD.jpg"> <img src="photos/somephoto-01-YYYYMMDD.jpg"
+      <a href="XX/photos/somephoto-01-YYYYMMDD.jpg"> <img src="XX/photos/somephoto-01-YYYYMMDD.jpg"
                                                        width="400" alt="Alternate Name"> </a>
     </td>
     <td>
@@ -47,7 +47,7 @@ Legal   :
 <h2>Description</h2>
 
 <p>
-  <img src="photos/name.jpg" width="480" alt="whatever" style="float: right; padding: 10px"/>
+  <img src="XX/photos/name.jpg" width="480" alt="whatever" style="float: right; padding: 10px"/>
 </p>
 
 <p style="clear: right;"/>

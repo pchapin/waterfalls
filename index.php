@@ -17,8 +17,8 @@
 <div class="container pt-3 pb-3">
   <div class="row justify-content-start">
     <div class="col-3">
-      <a href="oldcity.html"> <img src="photos/oldcity-04.jpg" class="img-fluid"
-                                   alt="Old City Falls"/> </a>
+      <a href="VT/oldcity.html"> <img src="VT/photos/oldcity-04.jpg" class="img-fluid"
+                                      alt="Old City Falls"> </a>
     </div>
     <div class="col-8 d-flex align-items-center">
       <h1>Waterfalls of New England</h1>

@@ -31,9 +31,9 @@
 <h2>Vermont</h2>
 <ul>
   <li style="list-style: none">
-    <a href="photos/weathersfield1.jpg"> <img src="photos/weathersfield1.jpg"
-                                             style="float: right; padding: 10px"
-                                             alt="Weathersfield Road Cut"/> </a>
+    <a href="VT/photos/weathersfield1.jpg"> <img src="VT/photos/weathersfield1.jpg"
+                                                 style="float: right; padding: 10px"
+                                                 alt="Weathersfield Road Cut"/> </a>
   </li>
   <li><b>Weathersfield</b>. Saturday, March 23, 1996. Hillary and I were travelling along US Rt. 5
     when we passed beautiful falls. It was located on the west side of the road just north of the

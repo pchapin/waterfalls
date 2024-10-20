@@ -29,9 +29,8 @@
 
 <p>This page is the start of that effort.</p>
 <ul>
-  <li><a href="middlebury.html">Middlebury Falls</a>, VT.</li>
-  <li><a href="rumford.html">Rumford Falls</a>, ME.</li>
-  <li><a href="niagara.html">Niagara Falls</a>, NY and Ontario.</li>
+  <li><a href="VT/middlebury.html">Middlebury Falls</a>, VT.</li>
+  <li><a href="ME/rumford.html">Rumford Falls</a>, ME.</li>
 </ul>
 
 <p>Return to the <a href="list.html">list of waterfalls</a>.</p>

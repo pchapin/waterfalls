@@ -30,11 +30,11 @@
 <p>First, a zoom lens is very helpful. You can't always stand in the best spot when you are at a
   waterfall. Steep rock faces and raging water often conspire to make the only safe locations very
   unphotogenic ones. I've found that a zoom lens allows me to get <a
-      href="photos/kinsman.jpg">just a little closer</a> or <a href="photos/bartlett.jpg">just a
-    little further back</a> when there would otherwise be no way I could move in those directions.
-  I use a 28mm to 105mm zoom lens. Although I find that many of my pictures are taken close to the
-  50mm "standard" lens focal length, I've often needed to slide my lens toward either end of its
-  range. The wide-angle settings tend to be more useful than the telephoto ones.</p>
+      href="NH/photos/kinsman.jpg">just a little closer</a> or <a href="VT/photos/bartlett.jpg">just
+    a little further back</a> when there would otherwise be no way I could move in those
+  directions. I use a 28mm to 105mm zoom lens. Although I find that many of my pictures are taken
+  close to the 50mm "standard" lens focal length, I've often needed to slide my lens toward either
+  end of its range. The wide-angle settings tend to be more useful than the telephoto ones.</p>
 
 <p>Many waterfalls are located in dark spots. The bottom of heavily forested glens and gorges
   typically get very little sun. As a result, long exposures are often necessary&#x2014;and
@@ -47,16 +47,16 @@
 
 <h2>The Right Location</h2>
 
-<p>Almost without fail, waterfalls look better <a href="photos/moss-glenn-granville-01.jpg">from
+<p>Almost without fail, waterfalls look better <a href="VT/photos/moss-glenn-granville-01.jpg">from
     below</a> than they do from above. If at all possible, try to get below the falls when taking
   pictures of them.</p>
 
-<p>Try to include enough context to get some scale. <a href="photos/bailey-01.jpg">People are
+<p>Try to include enough context to get some scale. <a href="VT/photos/bailey-01.jpg">People are
     good</a> for that, although too many people are a distraction. Yet even trees, logs, and other
   natural items can serve to put the falls into context. For example, the log at the bottom of <a
-      href="photos/hamilton1.jpg">this picture</a> is enough to give the viewer a feeling for the
-  scale of the falls. In contrast, you would never know that these falls are about 80 feet high
-  from <a href="MA/guest_photos/bashbish.jpg">this picture</a>!</p>
+      href="VT/photos/hamilton1.jpg">this picture</a> is enough to give the viewer a feeling for
+  the scale of the falls. In contrast, you would never know that these falls are about 80 feet
+  high from <a href="MA/guest_photos/bashbish.jpg">this picture</a>!</p>
 
 <p>It is usually best to avoid direct, straight on shots. Take your picture at a slight angle if
   you can. Sometimes it's very difficult to find the best angle from which to photograph a
@@ -85,7 +85,7 @@
   Both effects can be very interesting. The streaming look can make a small, unimpressive
   waterfall very interesting. Stop-action tends to look better if there is a lot of spray.</p>
 
-<p>Return to my list of <a href="index.html">Waterfall Pictures</a>.</p>
+<p>Return to my list of <a href="photo_index.html">Waterfall Pictures</a>.</p>
 
 <?php include 'signature.html'; ?>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
