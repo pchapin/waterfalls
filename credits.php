@@ -28,7 +28,7 @@
   for humoring my interest in waterfalls and joining me on several waterfall trips.</p>
 
 <p>Finally, last but not least, I'd like to thank my wife, <b><a href="VT/photos/oldcity-06.jpg">Sharon</a></b>
-  for also humoring my interest in waterfalls and for taking the time to explore some falls with
+     (now deceased) for also humoring my interest in waterfalls and for taking the time to explore some falls with
   me on our vacations.
 </p>
 
